@@ -43,12 +43,6 @@
   <b>Next on my list:</b> Everything Science 🔬🧪
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amirmalaeb&show_icons=true&theme=radical" alt="Amir Malaeb's GitHub Stats">
-</p>
-
 <h2 align="center">🔗 Connect with Me</h2>
 
 <p align="center">
