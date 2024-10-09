@@ -31,10 +31,6 @@ Leveraging cloud technologies to drive business transformation and deliver scala
 
 - Next on my list: Everything Science
 
-### 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
 ### 🔗 Connect with Me
 
 [LinkedIn](https://www.linkedin.com/in/amir-malaeb/) | [Personal Website/Blog](www.amirmalaeb.com)
