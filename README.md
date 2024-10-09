@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to Amir Malaeb's GitHub Profile 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AWS+Certified+Solutions+Architect;Cloud+Innovation+Leader;Global+IT+Strategist;Continuous+Learner;Automation+Enthusiast&center=true&width=800&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AWS+Certified+Solutions+Architect;AWS+Certified+Developer;Cloud+Innovation+Leader;Global+IT+Strategist;Continuous+Learner;Data+Science;Automation+Enthusiast&center=true&width=800&height=50">
 </p>
 
 <p align="center">
