@@ -1,40 +1,71 @@
-# Welcome to My GitHub Profile 👋
+<h1 align="center">Welcome to Amir Malaeb's GitHub Profile 👋</h1>
 
-## AWS Certified Solutions Architect & Developer | Cloud Innovation Leader | Global IT Strategist | Continuous Learner | Automation Enthusiast
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AWS+Certified+Solutions+Architect;Cloud+Innovation+Leader;Global+IT+Strategist;Continuous+Learner;Automation+Enthusiast&center=true&width=800&height=50">
+</p>
 
-Leveraging cloud technologies to drive business transformation and deliver scalable, secure, and cost-effective IT solutions. Passionate about continuous learning and automating everything.
+<p align="center">
+  <i>Leveraging cloud technologies to drive business transformation and deliver scalable, secure, and cost-effective IT solutions. Passionate about continuous learning and automating everything.</i>
+</p>
 
-### 🚀 Expertise
+<h2 align="center">🚀 Expertise</h2>
 
-- **Cloud Architecture**: Designing highly available and fault-tolerant systems on AWS
-- **Security**: Implementing robust security measures in cloud environments
-- **Cost Optimization**: Developing strategies for efficient resource utilization
-- **Scalability**: Building elastic solutions that grow with business needs
-- **Data-Driven Insights**: Harnessing the power of data for informed decision-making
-- **Automation**: Crafting efficient CI/CD pipelines and Infrastructure as Code solutions
+<p align="center">
+  <img src="https://img.shields.io/badge/Cloud%20Architecture-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Cloud Architecture">
+  <img src="https://img.shields.io/badge/Security-5C2D91?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Security">
+  <img src="https://img.shields.io/badge/Cost%20Optimization-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Cost Optimization">
+  <img src="https://img.shields.io/badge/Scalability-009639?style=for-the-badge&logo=elastic&logoColor=white" alt="Scalability">
+  <img src="https://img.shields.io/badge/Data--Driven%20Insights-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Data-Driven Insights">
+  <img src="https://img.shields.io/badge/Automation-326CE5?style=for-the-badge&logo=ansible&logoColor=white" alt="Automation">
+</p>
 
-### 🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+<p align="center">
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws" alt="AWS">
+  <img src="https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform" alt="Terraform">
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker" alt="Docker">
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python" alt="Python">
+</p>
 
-### 🌐 Global IT Leadership
+<h2 align="center">🌐 Global IT Leadership</h2>
 
-- Leading cross-functional teams to deliver innovative cloud solutions
-- Bridging the gap between business requirements and technical implementation
-- Driving digital transformation initiatives across diverse industries
+<p align="center">
+  ✦ Leading cross-functional teams to deliver innovative cloud solutions<br>
+  ✦ Bridging the gap between business requirements and technical implementation<br>
+  ✦ Driving digital transformation initiatives across diverse industries
+</p>
 
-### 📚 Continuous Learning
+<h2 align="center">📚 Continuous Learning</h2>
 
-- Next on my list: Everything Science
+<p align="center">
+  <b>Next on my list:</b> Everything Science 🔬🧪
+</p>
 
-### 🔗 Connect with Me
+<h2 align="center">📊 GitHub Stats</h2>
 
-[LinkedIn](https://www.linkedin.com/in/amir-malaeb/) | [Personal Website/Blog](www.amirmalaeb.com)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amirmalaeb&show_icons=true&theme=radical" alt="Amir Malaeb's GitHub Stats">
+</p>
+
+<h2 align="center">🔗 Connect with Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/amir-malaeb/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="http://www.amirmalaeb.com" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF4713.svg?&style=for-the-badge&logo=hugo&logoColor=white" alt="Website"></a>
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amirmalaeb&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views">
+</p>
 
 ---
 
-💡 "Embracing cloud innovation and automation to sculpt the future of global IT landscapes, one commit at a time."
+<p align="center">
+  💡 "Embracing cloud innovation and automation to sculpt the future of global IT landscapes, one commit at a time."
+</p>
