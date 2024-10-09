@@ -50,14 +50,6 @@
   <a href="http://www.amirmalaeb.com" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF4713.svg?&style=for-the-badge&logo=hugo&logoColor=white" alt="Website"></a>
 </p>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amirmalaeb&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views">
-</p>
-
 ---
 
 <p align="center">
